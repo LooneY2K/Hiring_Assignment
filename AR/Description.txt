@@ -1,0 +1,1 @@
+The contents of this folder are about the project of overlaping a virtual object over another object on a video in real time
